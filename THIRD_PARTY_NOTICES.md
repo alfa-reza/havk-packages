@@ -65,3 +65,18 @@ Imported from upstream as a baseline for further development in Havk. Subsequent
 - Local license: `packages/rpiv-btw/LICENSE`
 
 Imported from upstream as a baseline for further development in Havk. Subsequent commits in this repository may modify the imported source.
+
+## pi-ssh-remote
+
+- Project: pi-ssh-remote
+- Package: `pi-ssh-remote`
+- Source: https://github.com/petrichor20211/pi-ssh-remote
+- Upstream path: repository root
+- Local path: `packages/pi-ssh-remote`
+- Imported version: `0.1.14`
+- Imported revision: `0b9487d2678a54dfa39a28c2430a83813dc1ff7d`
+- License: MIT
+- Copyright: Copyright (c) 2026 Yutong Bian
+- Local license: `packages/pi-ssh-remote/LICENSE`
+
+Imported from upstream as a baseline for further development in Havk.
