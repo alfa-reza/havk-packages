@@ -50,3 +50,18 @@ Imported from upstream as a baseline for further development in Havk. Subsequent
 - Local license: `packages/rpiv-ask-user-question/LICENSE`
 
 Imported from upstream as a baseline for further development in Havk. Subsequent commits in this repository may modify the imported source.
+
+## rpiv-btw
+
+- Project: rpiv-mono
+- Package: `@juicesharp/rpiv-btw`
+- Source: https://github.com/juicesharp/rpiv-mono
+- Upstream path: `packages/rpiv-btw`
+- Local path: `packages/rpiv-btw`
+- Imported version: `2.11.0`
+- Imported revision: `d74b1c99830a565f3df3f37e0a36616d17ffc574`
+- License: MIT
+- Copyright: Copyright (c) 2026 juicesharp
+- Local license: `packages/rpiv-btw/LICENSE`
+
+Imported from upstream as a baseline for further development in Havk. Subsequent commits in this repository may modify the imported source.
